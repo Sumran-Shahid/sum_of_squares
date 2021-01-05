@@ -1,4 +1,4 @@
-/*This program takes an input from the user and the
+/*This program takes an input from the user and then
  * returns the sum of the squares of the numbers upto
  * that number.
  * 
