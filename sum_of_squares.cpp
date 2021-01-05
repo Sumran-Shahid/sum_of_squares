@@ -1,12 +1,14 @@
-/*This program takes an input from the user and then
+/*
+ * This program takes an input from the user and then
  * returns the sum of the squares of the numbers upto
  * that number.
- * 
+ *
  */
 
 /*
  * THIS PROGRAM USES A LIBRARY THAT IS ONLY MEANT TO BE USED ON WINDOWS PLATFORM.
  * SO THIS PROGRAM CANNOT BE RAN ON OTHER PLATFORMS LIKE LINUX OR MAC OS X.
+ *
  */
 
 #include <iostream>
